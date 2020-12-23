@@ -11,10 +11,10 @@ $lang = array (
   "dashboard_for"               =>  "Dashboard for",
   // Banner links
   "dashboard"                   =>  "Дашборд",
-  "admin"                       =>  "Admin",
-  "power"                       =>  "Power",
-  "update"                      =>  "Update",
-  "backup_restore"              =>  "Backup/Restore",
+  "admin"                       =>  "Администратор",
+  "power"                       =>  "Захранване",
+  "update"                      =>  "Актуализиране",
+  "backup_restore"              =>  "Архивиране / Възстановяване",
   "factory_reset"               =>  "Фабрични настройки",
   "live_logs"                   =>  "Live Logs",
   // Config page section headdings
