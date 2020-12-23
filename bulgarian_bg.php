@@ -7,15 +7,15 @@
 $lang = array (
   // Banner texts
   "digital_voice"               =>  "Digital Voice",
-  "configuration"               =>  "Êîíôèãóðàöèÿ",
+  "configuration"               =>  "ÐšÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸Ñ",
   "dashboard_for"               =>  "Dashboard for",
   // Banner links
-  "dashboard"                   =>  "Äàøáîðä",
+  "dashboard"                   =>  "Ð”Ð°ÑˆÐ±Ð¾Ñ€Ð´",
   "admin"                       =>  "Admin",
   "power"                       =>  "Power",
   "update"                      =>  "Update",
   "backup_restore"              =>  "Backup/Restore",
-  "factory_reset"               =>  "Ôàáðè÷íè íàñòðîéêè",
+  "factory_reset"               =>  "Ð¤Ð°Ð±Ñ€Ð¸Ñ‡Ð½Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸",
   "live_logs"                   =>  "Live Logs",
   // Config page section headdings
   "hardware_info"               =>  "Gateway Hardware Information",
