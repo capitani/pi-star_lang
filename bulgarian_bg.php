@@ -8,7 +8,7 @@ $lang = array (
   // Banner texts
   "digital_voice"               =>  "Digital Voice",
   "configuration"               =>  "Конфигурация",
-  "dashboard_for"               =>  "Dashboard for",
+  "dashboard_for"               =>  "Дашборд на",
   // Banner links
   "dashboard"                   =>  "Дашборд",
   "admin"                       =>  "Администратор",
